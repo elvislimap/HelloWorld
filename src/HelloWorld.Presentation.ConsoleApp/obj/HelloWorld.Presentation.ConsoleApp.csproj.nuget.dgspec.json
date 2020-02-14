@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Elvis\\Desktop\\Curso Formação Desenvolvedores C#\\HelloWorld\\src\\HelloWorld.Presentation.ConsoleApp\\HelloWorld.Presentation.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Elvis\\Desktop\\Curso Formação Desenvolvedores C#\\HelloWorld\\src\\HelloWorld.Presentation.ConsoleApp\\HelloWorld.Presentation.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Elvis\\Desktop\\Curso Formação Desenvolvedores C#\\HelloWorld\\src\\HelloWorld.Presentation.ConsoleApp\\HelloWorld.Presentation.ConsoleApp.csproj",
+        "projectName": "HelloWorld.Presentation.ConsoleApp",
+        "projectPath": "c:\\Users\\Elvis\\Desktop\\Curso Formação Desenvolvedores C#\\HelloWorld\\src\\HelloWorld.Presentation.ConsoleApp\\HelloWorld.Presentation.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Elvis\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Elvis\\Desktop\\Curso Formação Desenvolvedores C#\\HelloWorld\\src\\HelloWorld.Presentation.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Elvis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\192.168.0.1\\PontoSys\\Nuget Packages": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
